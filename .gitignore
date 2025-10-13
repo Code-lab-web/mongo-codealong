@@ -1,4 +1,4 @@
-node_modules
+nnode_modules
 .DS_Store
 .env.local
 .env.development.local
